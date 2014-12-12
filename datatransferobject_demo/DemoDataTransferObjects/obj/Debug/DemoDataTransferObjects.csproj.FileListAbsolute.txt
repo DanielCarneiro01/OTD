@@ -1,0 +1,7 @@
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\bin\Debug\DemoDataTransferObjects.dll
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\bin\Debug\DemoDataTransferObjects.pdb
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\bin\Debug\Common.dll
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\bin\Debug\Common.pdb
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\obj\Debug\DemoDataTransferObjects.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\obj\Debug\DemoDataTransferObjects.dll
+C:\Users\Daniel\Desktop\datatransferobject_demo\DemoDataTransferObjects\obj\Debug\DemoDataTransferObjects.pdb
