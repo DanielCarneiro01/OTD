@@ -3,7 +3,7 @@ using System;
 namespace DEMO.Common
 {
 	/// <summary>
-	/// This is the base class for all DataTransferObjects.
+	/// Classe base do DTO
 	/// </summary>
 	public abstract class DTO
 	{
