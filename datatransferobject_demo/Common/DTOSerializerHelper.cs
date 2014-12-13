@@ -5,7 +5,7 @@ using System.IO;
 namespace DEMO.Common
 {
 	/// <summary>
-	/// Summary description for DTOSerializerHelper.
+	/// Serializador do DTO
 	/// </summary>
 	public class DTOSerializerHelper
 	{
